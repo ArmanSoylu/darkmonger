@@ -30,12 +30,4 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darkmonger&show_icons=true&theme=dark&hide_border=true" alt="Arman's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=darkmonger&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
